@@ -56,7 +56,7 @@ export default function App() {
         </div>
       </section>
 
-      {/* Skills */}
+      
       <section id="skills" className="skills">
         <h3>My Toolkit</h3>
 
@@ -76,7 +76,7 @@ export default function App() {
         </div>
       </section>
 
-      {/* Projects */}
+      
       <section id="projects" className="projects">
         <h2>Projects</h2>
 
@@ -117,7 +117,7 @@ export default function App() {
         </div>
       </section>
 
-      {/* Contact */}
+    
       <section id="contact" className="contact">
         <h3>Lets <span>Connect</span></h3>
         <div className="contact-buttons">
