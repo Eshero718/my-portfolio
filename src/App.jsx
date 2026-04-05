@@ -121,7 +121,7 @@ export default function App() {
       <section id="contact" className="contact">
         <h3>Lets <span>Connect</span></h3>
         <div className="contact-buttons">
-          <button onClick={() => window.open("https://sunioacerobin28@gmail.com")}>Gmail</button>
+          <button onClick={() => window.open("https://myaccount.google.com/")}>Gmail</button>
           <button onClick={() => window.open("https://www.linkedin.com/in/ace-robin-sunio-1ba58a3b9")}>LinkedIn</button>
           <button onClick={() => window.open("https://github.com/Eshero718")}>Github</button>
           <button onClick={() => window.open("https://www.facebook.com/share/18h6LUUVPN/")}>Facebook</button>
